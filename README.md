@@ -1,0 +1,2 @@
+# sozluk
+Jquery Sözlük Uygulaması
